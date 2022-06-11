@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Hi there, We are [Tech Introspectors](http://teamintrospectors.tech/) 👋
+### Hi there, We are [Team Introspectors](https://teamintrospectors.tech/) 👋
 
 [![Website](https://img.shields.io/website?label=techintrospectors.tech&style=for-the-badge&url=https%3A%2F%2Ftechintrospectors.tech)](http://teamintrospectors.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Introspect?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTech_Introspect&screen_name=Tech_Introspect)
